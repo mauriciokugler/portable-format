@@ -65,15 +65,15 @@ int main(void)
 
 Original image:
 
-<img src="image.png" alt="color image" width=300/>
+<img src="images/image.png" alt="color image" width=300/>
 
 Negative image: 
 
-<img src="negative.png" alt="negative image" width=300/>
+<img src="images/negative.png" alt="negative image" width=300/>
 
 Grayscale image:
 
-<img src="gray.png" alt="grayscale image" width=300/>
+<img src="images/gray.png" alt="grayscale image" width=300/>
 
 ## Citing
 
